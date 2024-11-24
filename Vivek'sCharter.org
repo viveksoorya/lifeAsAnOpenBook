@@ -8,6 +8,7 @@
 **** measure. What gets measured, gets done. That which is measured, improves.
 ***** Proposal to split the 10 hours of the week into class hours (4), review and flesh out hours (2), write hours (2), edit et al hours (2). Approved!
 **** what is fomo? opportunity cost; unclear understanding of the big picture; greed (for you ought to stay in your circle of competence)
+**** tolerance; what is it
 **** 'staying in your circle of competence' does not sit very well with 'get out of your comfort zone'. The synthesis comes in the form of finding the right amount of challenge. But that is not what Warren is talking about. Well, perhaps, then, another part of the synthesis is to try and unify everything you find and use them to inform the thing that is your circle of competence.
 **** determining precedence of principles
 ***** example: 
@@ -34,6 +35,10 @@
 **** follow rules to the core to see where they break, it is a learning process.
 **** If it is for a principle, bend a knee, take a loss. But also remember, in the limit, you take no loss; if it appears otherwise, reevaluate your principle set.
 *** no inertia; be intentional, volitional and decisive; dont be a feather or a stone with great inertia; be like water that has volition;
+*** all of man's troubles come from the fact that he can't sit quietly along in a room; learn to be able to sit without stimulation; there is always things to unpack; they will resurface and take over; go internal always; dont feel the need to escape to being more productive, for it is escaping when it is done compulsively;
+*** "Such simple things, And we make of them something so complex it defeats us, Almost."
+-John Ashbery (b. 1927), American poet
+*** choiceless awareness
 *** stress hormones inhibit immunity response; this means stress is a no go; never stress, in the light of sustainable productivity, it is important to not inhibit your immunity activity, so that you are able to work at it, sustainably;
 *** You cannot pour from an empty pot. Prioritize self's well-being. Sometimes this means you may not be there for someone in need, but when you need yourself you have got to be there for yourself.
 *** accountability, and ownership of work. What are the different form it takes in how it is already implemented and how it is not as yet implemented but will be implemented? Are there any places this will not be implemented? Simply stating the answer for the last one is important since it is like an uncomputable problem, even if we do cannot compute it, it is good to know that that is the case.
@@ -128,3 +133,4 @@ The primary problem is perhaps in distribution. For distribution to happen, it h
 ***** systemic persistance
 ** useful machinery
 *** note that you have to counteract spotlight effect; this will help you live a life of freedom with the courage to be disliked
+*** solving for distribution (like visakanv says) + 1000 true fans (like Paul Graham says)
